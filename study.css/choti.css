@@ -1,0 +1,13 @@
+.loader{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid rgb(218, 51, 51);
+    border-top: 10px solid black;
+    animation: aare 3s ease-in 0s infinite;
+}
+
+@keyframes aare{
+    from{ transform: rotate(0deg); }
+    to{ transform: rotate(360deg); }
+}

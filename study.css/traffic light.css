@@ -1,0 +1,27 @@
+#grey {background-color: grey;
+      height: 245px;
+      padding: 5px;
+      width: 75px ;
+      border-radius: 20px;
+}
+
+#red {background-color: red;
+height: 70px;
+width: 50px;
+padding: 5px;
+margin: 5px;
+border-radius: 50%;}
+
+#yellow {background-color: yellow;
+height: 70px;
+width: 50px;
+padding: 5px;
+margin: 5px;
+border-radius: 50%;}
+
+#green {background-color: green;
+height: 70px;
+padding: 5px;
+margin: 5px;
+width: 50px;
+border-radius: 50%;}
